@@ -3,3 +3,8 @@ resource "azurerm_resource_group" "abcd" {
     location = "japaneast"
   
 }
+resource "azurerm_resource_group" "abcd" {
+    name = "abcd2"
+    location = "japaneast"
+  
+}
