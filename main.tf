@@ -1,10 +1,10 @@
 resource "azurerm_resource_group" "abcd" {
-    name = "abcd1"
+    name = "abcd11"
     location = "japaneast"
   
 }
 resource "azurerm_resource_group" "abcd" {
-    name = "abcd2"
+    name = "abcd21"
     location = "japaneast"
   
 }
